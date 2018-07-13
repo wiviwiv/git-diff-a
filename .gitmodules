@@ -1,3 +1,0 @@
-[submodule "priv/www"]
-	path = priv/www
-	url = git@github.com:wiviwiv/git-diff-a.git
